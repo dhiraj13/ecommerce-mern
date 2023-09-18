@@ -4,3 +4,6 @@
 [submodule "ecommerce-backend"]
 	path = ecommerce-backend
 	url = https://github.com/dhiraj13/ecommerce-backend.git
+[submodule "ecommerce-admin"]
+	path = ecommerce-admin
+	url = https://github.com/dhiraj13/ecommerce-admin.git
